@@ -6,3 +6,7 @@
 - AI
 - Web
 - App
+
+## Tech Stack
+- python
+- C++
