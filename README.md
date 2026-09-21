@@ -10,3 +10,4 @@
 ## Tech Stack
 - python
 - C++
+- Git
